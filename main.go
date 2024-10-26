@@ -91,4 +91,12 @@ func main() {
                         fmt.Println("Неизвестная команда. Доступные команды: balance, deposit, withdrawal, exit")
                 }
         }
+
+
+
+
+
+
+
+        fmt.Println("First commit")   
 }
